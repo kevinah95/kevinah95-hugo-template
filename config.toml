@@ -25,7 +25,7 @@ googleAnalytics       = "UA-118384587-1"
     faviconFile         = "img/favicon.ico"
     pygmentsStyle       = "murphy"                         # https://help.farbox.com/pygments.html
     pygmentsCodefences  = true
-    footerText          = "Made with lovable code"                                # Text to show in footer (overrides default text)
+    footerText          = "Made with elegant code"                                # Text to show in footer (overrides default text)
     fadeIn              = true                              # Turn on/off the fade-in effect
     customCSS           = []                                # Include custom css files e.g. ["css/foo.css", "css/bar.css"]
 
